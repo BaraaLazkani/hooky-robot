@@ -1,0 +1,5 @@
+path: /home/jaafar/htr/srs/yolo_pkg/yolo_pkg/codes/yolo_for_train/puck_dataset  # Root dataset path
+train: images/train  # Relative to 'path'
+val: images/val      # Relative to 'path'
+names:
+  0: puck            # Single class (puck)
