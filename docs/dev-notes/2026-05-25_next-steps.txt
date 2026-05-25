@@ -1,0 +1,1 @@
+now the next step is to make the file ros_arduino_bridge to send position to the arduino and then edit arduino code to have a premiery solve
