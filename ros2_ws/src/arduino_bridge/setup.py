@@ -15,8 +15,8 @@ setup(
     zip_safe=True,
     maintainer='jojo',
     maintainer_email='jojo@todo.todo',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    description='Serial bridge between ROS 2 and the Hooky Robot Arduino Mega',
+    license='MIT',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [

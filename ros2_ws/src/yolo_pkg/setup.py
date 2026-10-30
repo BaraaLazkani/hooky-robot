@@ -19,8 +19,8 @@ setup(
     zip_safe=True,
     maintainer='jojo',
     maintainer_email='jojo@example.com',
-    description='YOLO + trajectory prediction',
-    license='TODO',
+    description='YOLO puck detection, position mapping and trajectory prediction for the Hooky Robot',
+    license='MIT',
     tests_require=['pytest'],
     entry_points={
     'console_scripts': [
