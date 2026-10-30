@@ -1,0 +1,15 @@
+# Python dependencies of the vision, training and bridge scripts.
+# Inferred from the imports in this repository; versions were not recorded
+# in the original project, so none are pinned.
+# ROS 2 itself (rclpy, std_msgs, launch_ros) comes from your ROS 2 install.
+numpy
+pandas
+matplotlib
+scikit-learn
+joblib
+pillow
+pyyaml
+pyserial
+opencv-python
+torch
+ultralytics

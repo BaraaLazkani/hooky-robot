@@ -1,0 +1,33 @@
+# --- ROS 2 / colcon build output ---
+build/
+install/
+log/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+camenv/
+.venv/
+venv/
+
+# --- Archives and recordings (large, redundant copies of tracked files) ---
+*.zip
+*.mkv
+*.mp4
+
+# --- Ultralytics / training caches (regenerated on demand) ---
+*.cache
+# Per-epoch checkpoints of future training runs. The 2025 puck_v2 run's
+# checkpoints are already tracked, and ignore rules don't affect tracked files.
+runs/**/weights/epoch*.pt
+
+# --- Editor / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Personal documents. Never commit these. ---
+photo_*.jpg
+photo_*.JPG
