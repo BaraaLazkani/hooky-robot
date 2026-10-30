@@ -208,4 +208,6 @@ The puck detector is trained with [Ultralytics](https://github.com/ultralytics/u
 
 - [Baraa Lazkani](https://github.com/BaraaLazkani)
 - [Humam Yehi](https://github.com/humam-yehi)
-- Hasan Mflh
+- [Hasan Mflh](https://github.com/HasanMflh)
+
+Other people also worked on the project, especially on the YOLO package (`yolo_pkg`: detection, position mapping and trajectory prediction). Their names are not recorded in the original files, so they are not listed here.
