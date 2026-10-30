@@ -22,6 +22,7 @@ The repository is a record of how the project grew, from a single stepper on a b
 - [Results](#results)
 - [Notes on this repository's history](#notes-on-this-repositorys-history)
 - [License and credits](#license-and-credits)
+- [Team](#team)
 
 ## How it works
 
@@ -203,4 +204,8 @@ Code and documentation are released under the [MIT License](LICENSE).
 
 The puck detector is trained with [Ultralytics](https://github.com/ultralytics/ultralytics) YOLOv8, which is licensed under AGPL-3.0. If you redistribute the trained weights or a service built on them, check those terms.
 
-Created by Baraa Lazkani. File paths in the code show that other people worked on the project on their own machines. Add their names here if you want them credited.
+## Team
+
+- [Baraa Lazkani](https://github.com/BaraaLazkani)
+- [Humam Yehi](https://github.com/humam-yehi)
+- Hasan Mflh
